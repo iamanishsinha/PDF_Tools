@@ -1,0 +1,19 @@
+{
+  "name": "paperflow",
+  "version": "4.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "jszip": "3.10.1",
+    "jspdf": "3.0.1",
+    "next": "15.5.7",
+    "pdf-lib": "1.17.1",
+    "pdfjs-dist": "5.7.284",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  }
+}
