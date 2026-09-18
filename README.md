@@ -30,10 +30,6 @@ http://localhost:3000
 
 ## Important
 
-Do not add:
-```js
-pdfjs.GlobalWorkerOptions.workerSrc = "/pdf.worker.min.mjs";
-```
 
 This version imports:
 ```js
